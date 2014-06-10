@@ -1,0 +1,25 @@
+{
+	"name": "inotify-recursive",
+	"main": "inotify-recursive",
+	"description": "By default Inotify monitoring of directories is not recursive, so I did it..",
+	"version": "0.0.1",
+	"license": "LGPL-3.0+",
+	"author": "Henrique Mecking <henriquemecking@gmail.com>",
+	"dependencies": {
+		"inotify": "~1.2.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/mecking/inotify-recursive-js"
+	},
+	"keywords": [
+		"inotify",
+		"recursive",
+		"monitoring",
+		"files",
+		"directories"
+	],
+	"bugs": {
+		"url": "https://github.com/mecking/inotify-recursive-js/issues"
+	}
+}
