@@ -2,7 +2,7 @@
 	"name": "inotify-recursive",
 	"main": "inotify-recursive",
 	"description": "By default Inotify monitoring of directories is not recursive, so I did it..",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "LGPL-3.0+",
 	"author": "Henrique Mecking <henriquemecking@gmail.com>",
 	"dependencies": {
